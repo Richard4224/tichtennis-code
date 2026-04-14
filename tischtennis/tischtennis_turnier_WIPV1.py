@@ -14,13 +14,6 @@ def main():
 
     save_result(results)
 
-# t
-
-<<<<<<< HEAD
-=======
-)
-
->>>>>>> 80fa88d957019b660de8a115bc2b6280238b5479
 def get_player_count():  
 
     # Überprüfen ob ein Argument eingegeben wurde
