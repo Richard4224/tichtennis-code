@@ -47,7 +47,7 @@ def get_players(player_count):
 
     for i in range(player_count):
         player_name = input(f"Player {i + 1} name: ")
-        players.append({"name": player_name, "wins": 0, "losses": 0})
+        players.append({"name": player_name, "Matchpoints": 0, "Gamepoints": 0})
 
     return players
 
@@ -70,7 +70,8 @@ def input_results(players):
 
 def print_results(players, results):
 
-    # Printe alle spieler mit deren Punktzahl (3 Punkte pro win), sortiert und verkünde die Gewinner (die mit höhster Punktzahl)
+    # Printe alle spieler mit deren Punktzahl (3 Punkte pro win, Unentschieden 1 Punkt), sortiert und verkünde die Gewinner (die mit höhster Punktzahl)
+    players.sort(key=lambda x: (x["Matchpoints"], x["Gamepoints"]), reverse=True)
     pass
 
 
