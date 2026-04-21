@@ -57,7 +57,7 @@ def print_matches(players):
     for player in players:
          for i in range(players):
             if not player == players[i]:
-                print(f"\n{i + 1}. {player} vs {players[i]}")
+                print(f"\n{i + 1}. {player["name"]} vs {players[i]["name"]}")
 
 
 def input_results(players):
