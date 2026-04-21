@@ -1,1 +1,1 @@
-# tichtennis-code
+# tischtennis-code

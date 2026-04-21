@@ -1,5 +1,6 @@
 import sys
 
+
 def main():
 
     player_count = get_player_count()
