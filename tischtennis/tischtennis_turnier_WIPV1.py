@@ -44,7 +44,7 @@ def get_players(player_count):
     players = []
 
     for i in range(player_count):
-        player_name = input(f"Player {i} name: ")
+        player_name = input(f"Player {i + 1} name: ")
         players.append({"name": player_name, "wins": 0, "losses": 0})
 
     return players
