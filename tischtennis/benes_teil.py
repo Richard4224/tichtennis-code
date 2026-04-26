@@ -11,7 +11,7 @@ def main():
 
     players, results = input_results(players, matches)
 
-    print_results(players, results)
+    print_results(players)
 
     save_result(results)
 

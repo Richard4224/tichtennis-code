@@ -1,0 +1,6 @@
+1. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 3, Punkte Verlierer: 2
+2. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 23, Punkte Verlierer: 3
+3. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 3, Punkte Verlierer: 2
+4. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 3, Punkte Verlierer: 2
+5. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 2343, Punkte Verlierer: 2
+6. Match: Gewinner: g, Verlierer: g, Punkte Gewinner: 4, Punkte Verlierer: 3
